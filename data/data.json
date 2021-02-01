@@ -1,0 +1,31 @@
+{
+	"mobiles":[
+		{
+			"name":"nokia asha 501",
+			"image":"img/1.jpeg",
+			"price":5000,
+			"original":8000
+		},{
+			"name":"samsung a7",
+			"image":"img/Samsung-Galaxy-A7-2018.jpg",
+			"price":10000,
+			"original":18000
+		},{
+			"name":"samsung a30",
+			"image":"img/3.jpeg",
+			"price":15000,
+			"original":28000
+		},{
+			"name":"micromax canvas",
+			"image":"img/4.jpeg",
+			"price":10000,
+			"original":12000
+		},{
+			"name":"celkon",
+			"image":"img/5.jpeg",
+			"price":8000,
+			"original":12000
+		}
+
+	]
+}
